@@ -32,6 +32,10 @@
 | QS Pro | Offline desktop app for construction billing | Electron, SQLite |
 | [sree-supreme-solder-website](https://github.com/asal1989/sree-supreme-solder-website) | Business website for a solder manufacturer, Madurai | HTML, CSS, JavaScript |
 | [damodar-dance-class](https://github.com/asal1989/damodar-dance-class) | Website for a dance academy: courses, schedules, enrolment, gallery | HTML, CSS, JS |
+| [Dheeprix-voucherpro](https://github.com/asal1989/Dheeprix-voucherpro) | Voucher entry and accounting app rebuilt from a desktop tool, with roles and Tally integration | React/Vite, Node/Express, SQLite, Python |
+| [Trio Built Gulf](https://github.com/asal1989/dilip-dubai) | Company website for a technical services firm in the Gulf: services, team, projects, SEO metadata | Next.js, TypeScript, Tailwind CSS |
+| Pensioner Association System *(private)* | Tamil-language web app to manage members of a retired staff association | Web app |
+| **Dheeprix Solutions** | My freelance practice: websites and business apps for small businesses | Web, AI-assisted development |
 
 ## Experience
 
